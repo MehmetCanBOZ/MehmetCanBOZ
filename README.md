@@ -12,9 +12,9 @@ Skills: REACT / JS / HTML / CSS/ C
 - 📫 How to reach me: You can reach from my social media account. 
 
 ## ✉️ Find me on:
-
+<p align="center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MehmetCanBOZ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehmet-can-boz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mc.boz/)  
-
+</p>
 
 ## 🧰 Languages and Tools:
 <p align="center">
