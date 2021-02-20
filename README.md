@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , I am Mehmet Can BOZ. I am self-taught programmer.👋
 
 <!--
 **MehmetCanBOZ/MehmetCanBOZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
