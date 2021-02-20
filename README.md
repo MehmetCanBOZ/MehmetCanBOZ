@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mehmet Can BOZ from Istanbul,TURKEY.
 #### I am self-taught web developer.
-![I am self-taught web developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I do content on Design and Development about Web Programing. I really enjoy learning programming languages like Python and Javascript also framework like React, as well as work in Django.
 
