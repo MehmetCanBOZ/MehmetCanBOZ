@@ -5,7 +5,7 @@ I do content on Design and Development about Web Programing and AI. I really enj
 
 
 
-Skills:Python / JS / HTML / CSS/ C
+Skills: Python / JS / HTML / CSS/ C
 
 - 🌱 I’m currently learning React,React Native, Node.js, 
 - 💬 Ask me about Django,Python,JavaScript 
