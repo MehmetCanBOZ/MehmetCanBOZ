@@ -7,7 +7,7 @@ I'm Mehmet Can BOZ from Istanbul,TURKEY and I am self-taught programmer. I do co
 
 
 
-[![MehmetCanBOZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetCanBOZ)](https://github.com/MehmetCanBOZ/github-readme-stats)
+ [![MehmetCanBOZ's GitHub stats] (https://github-readme-stats.vercel.app/api?username=MehmetCanBOZ)](https://github.com/MehmetCanBOZ/github-readme-stats)
 
 
 
