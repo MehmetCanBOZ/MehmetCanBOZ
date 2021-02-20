@@ -2,7 +2,7 @@
 #### I am self-taught web developer.
 
 
-I do content on Design and Development about Web Programing. I really enjoy learning programming languages like Python and Javascript also framework like React, as well as work in Django.
+I do content on Design and Development about Web Programing and AI. I really enjoy learning programming languages like Python and Javascript also framework like React, as well as work in Django.
 
 Skills: REACT / JS / HTML / CSS/ C
 
