@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mehmet Can BOZ from Istanbul,TURKEY.
 
 I do content on Design and Development about Web Programing and AI. I really enjoy learning programming languages like Python and Javascript also framework like React, as well as work in Django.
-![](https://visitor-badge.laobi.icu/badge?page_id=MehmetCanBOZ.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=MehmetCanBOZ.MehmetCanBOZ)
 
 
 Skills: REACT / JS / HTML / CSS/ C
