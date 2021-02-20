@@ -1,6 +1,4 @@
 ### Hi there 👋, I'm Mehmet Can BOZ from Istanbul,TURKEY.
-#### I am self-taught web developer.
-
 
 I do content on Design and Development about Web Programing and AI. I really enjoy learning programming languages like Python and Javascript also framework like React, as well as work in Django.
 
