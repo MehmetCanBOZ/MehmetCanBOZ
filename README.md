@@ -2,9 +2,6 @@
 
 
 I'm Mehmet Can BOZ from Istanbul,TURKEY and I am self-taught programmer. I do content on Design and Development about Web Programing.I really enjoy learning programing languages like Pytohn and Javascript also framework like React, as well as work in Django.
-<!--
-**MehmetCanBOZ/MehmetCanBOZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetCanBOZ&show_icons=true&theme=dark)
