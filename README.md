@@ -6,7 +6,6 @@ I do content on Design and Development about Web Programing. I really enjoy lear
 
 Skills: REACT / JS / HTML / CSS/ C
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React,React Native, Node.js, 
 - 💬 Ask me about Django,Python,JavaScript 
 - 📫 How to reach me: You can reach from my social media account. 
