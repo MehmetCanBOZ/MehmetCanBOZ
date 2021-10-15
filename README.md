@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Mehmet Can BOZ from Istanbul,TURKEY.
 
-I do content on Design and Development about Web Programing and AI.I am a passionate self-taught Full Stack web developer.I really enjoy learning programming languages like Python and Javascript also framework like React, as well as work in Django.
+I do content on Design and Development about Web Programing and AI.I am a passionate self-taught Full Stack web developer.I really enjoy learning programming languages like Python and Javascript also framework like React, as well as work in Django and Nodejs.
 
 
 
 
-Skills: Python / JS / HTML / CSS/ C
+Skills: Nodejs / React / Sass 
 
 - 🌱 I’m currently learning React,React Native, Node.js, 
 - 💬 Ask me about Django,Python,JavaScript 
@@ -20,7 +20,7 @@ Skills: Python / JS / HTML / CSS/ C
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="flask" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="react-native" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" style="vertical-align:top; margin:4px">
@@ -37,3 +37,5 @@ Skills: Python / JS / HTML / CSS/ C
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetCanBOZ&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/MehmetCanBOZ)  
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={MehmetCanBOZ}
