@@ -38,4 +38,3 @@ Skills: Nodejs / React / Sass
 
 ![Profile views](https://gpvc.arturio.dev/MehmetCanBOZ)  
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCanBOZ)
