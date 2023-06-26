@@ -13,7 +13,8 @@ Skills: Nodejs / React / Sass
 
 ## ✉️ Find me on:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MehmetCanBOZ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehmet-can-boz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mc.boz/)  
+[<img src='https://img.shields.io/badge/-mehmetcanboz-blue?style=flat&logo=Linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehmet-can-boz/)  
+[<img src='https://img.shields.io/badge/-mcboz-orange?style=flat&logo=Instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/mc.boz/)  
 
 
 ## 🧰 Languages and Tools:
@@ -35,6 +36,4 @@ Skills: Nodejs / React / Sass
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehmetCanBOZ&show_icons=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCanBOZ&layout=compact) 
 
