@@ -1,15 +1,15 @@
-### Hi there 👋, I'm Mehmet Can BOZ from Istanbul,TURKEY.
+### Hi there 👋, I'm Mehmet Can BOZ from Istanbul, TURKEY.
 
-I do content on Design and Development about Web Programing and AI.I am a passionate self-taught Full Stack web developer.I really enjoy learning programming languages like Python and Javascript also framework like React, as well as work in Django and Nodejs.
+I do content on design and development about web and mobile. I am a passionate self-taught Full Stack web developer. I really enjoy learning programming languages like Python and Javascript also frameworks like React, as well as working in Django and Nodejs.
 
 
 
 
 Skills: Nodejs / React / Sass 
 
-- 🌱 I’m currently learning React,React Native, Node.js, 
-- 💬 Ask me about Django,Python,JavaScript 
-- 📫 How to reach me: You can reach from my social media account. 
+- 🌱 I’m currently learning React, React Native, Node.js, 
+- 💬 Ask me about Django, Python, JavaScript 
+- 📫 How to reach me: You can reach me from my social media account. 
 
 ## ✉️ Find me on:
 
